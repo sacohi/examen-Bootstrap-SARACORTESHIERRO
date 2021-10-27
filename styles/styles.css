@@ -11,6 +11,9 @@ h1,h2,h3,h4,h5,h6 {
 body {
 	font-family: Roboto;
 }
+#portada {
+  height: 250px;
+}
 .bg-image {
   background-image: url(https://picsum.photos/id/26/1500/300/);
   background-size: cover;
